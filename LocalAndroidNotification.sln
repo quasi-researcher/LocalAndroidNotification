@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalAndroidNotification.Android", "LocalAndroidNotification\LocalAndroidNotification.Android\LocalAndroidNotification.Android.csproj", "{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalAndroidNotification", "LocalAndroidNotification\LocalAndroidNotification\LocalAndroidNotification.csproj", "{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD50B16-B9F6-4BB7-9915-D01122AA4DA2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8D6A54-21B6-4651-92BA-C47ABBF2ED8F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567FACE9-52A3-47EA-9F45-4B3DAACC003A}
+	EndGlobalSection
+EndGlobal
