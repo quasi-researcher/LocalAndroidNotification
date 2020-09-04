@@ -43,7 +43,7 @@
                 <Button x:Name="notify_button" Text="Set notification" Clicked="notify_Clicked" BackgroundColor="#C4A35A"/>
             </Frame>
             <Frame Margin="10,5,10,5" BackgroundColor="#C66B3D">
-                <Button x:Name="cancel_button" Text="Cancel all notifications" Clicked="cancel_Clicked" BackgroundColor="#C4A35A"/>
+                <Button x:Name="cancel_button" Text="Cancel notification" Clicked="cancel_Clicked" BackgroundColor="#C4A35A"/>
             </Frame>
         </StackLayout>
     </ScrollView>
